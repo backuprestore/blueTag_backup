@@ -1,3 +1,7 @@
+BACKUP of https://github.com/Aodrulez/blueTag
+not my work
+
+
 # [ blueTag ] 
     
 JTAGulator alternative for RP2040 microcontroller based development boards including RPi Pico. Huge shout-out to Joe Grand for his JTAGulator project!
