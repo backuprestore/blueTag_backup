@@ -1,6 +1,11 @@
 BACKUP of https://github.com/Aodrulez/blueTag
 not my work
 
+video:
+https://www.youtube.com/watch?v=nvzXHd3OnZw
+
+
+
 
 # [ blueTag ] 
     
